@@ -31,6 +31,6 @@ Normalised Confusion Matrix :
 
 Table comparing the accuracies we reached :
 
-<img src="https://user-images.githubusercontent.com/83641114/275829282-28f6a2c8-abd5-47ac-998e-bce84236ecab.png" alt="Image Alt Text" width="400" height="600">
+<img src="https://user-images.githubusercontent.com/83641114/275829282-28f6a2c8-abd5-47ac-998e-bce84236ecab.png" alt="Image Alt Text" width="600" height="400">
 
 
