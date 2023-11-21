@@ -16,21 +16,21 @@ Transformer Accuracy : 80.44%
 
 LOSS CURVE :
 
-<img src="https://user-images.githubusercontent.com/83641114/275827896-dc355e91-5637-4795-8acd-55050e50f0af.png" alt="Image Alt Text" width="500" height="500">
+<img src="https://user-images.githubusercontent.com/83641114/275827896-dc355e91-5637-4795-8acd-55050e50f0af.png" alt="Image Alt Text" width="400" height="400">
 
 
 Confusion Matrix :
 
-<img src="https://user-images.githubusercontent.com/83641114/275828389-f10ea9eb-2c71-470f-9dcd-cf7bff783533.png" alt="Image Alt Text" width="500" height="500">
+<img src="https://user-images.githubusercontent.com/83641114/275828389-f10ea9eb-2c71-470f-9dcd-cf7bff783533.png" alt="Image Alt Text" width="400" height="400">
 
 
 Normalised Confusion Matrix :
 
-<img src="https://user-images.githubusercontent.com/83641114/275828302-98e04252-20c8-4e67-9cb4-5437b9dadd68.png" alt="Image Alt Text" width="500" height="500">
+<img src="https://user-images.githubusercontent.com/83641114/275828302-98e04252-20c8-4e67-9cb4-5437b9dadd68.png" alt="Image Alt Text" width="400" height="400">
 
 
 Table comparing the accuracies we reached :
 
-<img src="https://user-images.githubusercontent.com/83641114/275829282-28f6a2c8-abd5-47ac-998e-bce84236ecab.png" alt="Image Alt Text" width="500" height="500">
+<img src="https://user-images.githubusercontent.com/83641114/275829282-28f6a2c8-abd5-47ac-998e-bce84236ecab.png" alt="Image Alt Text" width="400" height="600">
 
 
